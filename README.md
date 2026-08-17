@@ -4,4 +4,4 @@
 源代码是用Python编写，推荐python3.9以
 需要配置库如下：pip install requests pandas urllib3
 
-双击steam_review_scraper.py运行
+双击打开steam_review_scraper.py运行即可
