@@ -1,5 +1,7 @@
 # steam_review_scraper
 数据来源于官方API接口，真实可靠，支持steam上的常用语言，语言、数量、时间、是否steam直购筛选，并自动计算好评率、导出txt和CSV文件（有原链接可检查）
  
-源代码是用Python编写，推荐python3.9以上
+源代码是用Python编写，推荐python3.9以
 需要配置库如下：pip install requests pandas urllib3
+
+双击steam_review_scraper.py运行
