@@ -5,3 +5,5 @@
 需要配置库如下：pip install requests pandas urllib3
 
 双击打开steam_review_scraper.py运行即可
+
+程序支持：deepseek老师
